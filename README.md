@@ -9,6 +9,11 @@ The basic templete for the code is available at \
 [opendlv-sim-motor-kiwi](https://github.com/chalmers-revere/opendlv-sim-motor-kiwi) \
 [opendlv-logic-test-kiwi](https://github.com/chalmers-revere/opendlv-logic-test-kiwi)
 
+This is a part of the TME290 - Autonomous Robots course.
+
+<p align="center">
+   <img src="https://rahulrpai.files.wordpress.com/2021/09/task_c.png">
+   </p>
 
 # How to get the program running:
 
